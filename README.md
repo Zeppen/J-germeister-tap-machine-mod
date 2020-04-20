@@ -3,9 +3,9 @@ Modifying the Jägermeister tap machine
 
 Here's the beginning of a tutorial on how to modify a Jägermeister tap machine with broken thermostat. 
 Jägermeister Tap Machine https://amzn.to/2zbCQSt
-<a target="_blank"  href="https://www.amazon.de/gp/product/B01NBFCYNC/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B01NBFCYNC&linkCode=as2&tag=zeppen-21&linkId=e1e20d25139502bc466a740301d73040"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=DE&ASIN=B01NBFCYNC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=zeppen-21" ></a><img src="//ir-de.amazon-adsystem.com/e/ir?t=zeppen-21&l=am2&o=3&a=B01NBFCYNC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 1. Get a 3'n 1 rco420
-2. Get a Eliwell EW961 (thermostat)
+2. Get a Eliwell EW961 (thermostat) https://amzn.to/2XOhDbw
 
 How to wire:
 
